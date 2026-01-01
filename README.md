@@ -10,10 +10,9 @@ I transitioned into software engineering from a systems-heavy electrical enginee
 
 ## 🛠 Core Technical Skills
 
-* **Frontend:** React.js, HTML, CSS, Responsive UI
+* **Frontend:** React.js, HTML, CSS, Js, Responsive UI
 * **Backend:** PHP (Laravel), RESTful API Design
 * **Database:** MySQL (Schema design, optimization)
-* **Architecture:** Business logic design, RBAC, authentication
 * **Automation:** Workflow automation & reporting systems
 * **Quality:** Debugging, performance optimization, testing
 * **Tools:** Git, GitHub, Agile development practices

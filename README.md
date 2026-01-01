@@ -152,14 +152,6 @@ CNN-based **image classification system** for early crop disease detection.
 
 ---
 
-## 📈 GitHub Activity
-
-
-[![Ayon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayonroy299&theme=react-dark&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayon-roy-mca-eee)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayonroy299@gmail.com)

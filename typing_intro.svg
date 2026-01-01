@@ -1,23 +1,48 @@
 <svg width="850" height="150" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="30" font-size="18" fill="#00f" font-family="monospace">
-    <tspan id="line1">I build practical, scalable web applications and automation systems</tspan>
-  </text>
-  <text x="0" y="60" font-size="18" fill="#00f" font-family="monospace">
-    <tspan id="line2">that solve real operational and business problems.</tspan>
-  </text>
-  <text x="0" y="90" font-size="18" fill="#00f" font-family="monospace">
-    <tspan id="line3">With a systems-heavy electrical engineering background,</tspan>
-      </text>
-   <text x="0" y="120" font-size="18" fill="#00f" font-family="monospace">
-     <tspan id="line4">I bring a reliability-first and process-driven mindset into software development.</tspan>
-  </text>
-
-  <!-- Animation for line1 -->
-  <animate attributeName="textLength" from="0" to="700" dur="6s" begin="0s" fill="freeze" />
+  <defs>
+    <style>
+      @keyframes typing1 {
+        from { width: 0; }
+        to { width: 100%; }
+      }
+      @keyframes typing2 {
+        from { width: 0; }
+        to { width: 100%; }
+      }
+      @keyframes typing3 {
+        from { width: 0; }
+        to { width: 100%; }
+      }
+      @keyframes typing4 {
+        from { width: 0; }
+        to { width: 100%; }
+      }
+      .line1, .line2, .line3, .line4 {
+        overflow: hidden;
+        white-space: nowrap;
+        width: 0;
+      }
+      .line1 {
+        animation: typing1 2s steps(65) forwards;
+      }
+      .line2 {
+        animation: typing2 1.5s steps(53) 2s forwards;
+      }
+      .line3 {
+        animation: typing3 2s steps(64) 3.5s forwards;
+      }
+      .line4 {
+        animation: typing4 2.5s steps(84) 5.5s forwards;
+      }
+    </style>
+  </defs>
+  
+  <foreignObject x="0" y="0" width="900" height="150">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: monospace; font-size: 18px; color: #00f;">
+      <div class="line1">I build practical, scalable web applications and automation systems</div>
+      <div class="line2">that solve real operational and business problems.</div>
+      <div class="line3">With a systems-heavy electrical engineering background,</div>
+      <div class="line4">I bring a reliability-first and process-driven mindset into software development.</div>
+    </div>
+  </foreignObject>
 </svg>
-
-
-
-
-
-

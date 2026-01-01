@@ -63,20 +63,6 @@ Dynamic corporate website & **CMS** built with Laravel 12 & Filament v3
 
 CNN-based **image classification system** for early crop disease detection.
 
----
-
-## 📚 Currently Learning
-<!-- Auto-update this section with GitHub Actions -->
-- React Query Advanced Patterns  
-- Laravel 12 New Features  
-- Docker for Production  
-- AI Model Deployment (TensorFlow / PyTorch)
-
----
-
-## 🔭 Currently Working On
-![Asset System](https://github-readme-stats.vercel.app/api/pin/?username=ayonroy299&repo=asset-system&theme=dark)  
-![Global ITSL CMS](https://github-readme-stats.vercel.app/api/pin/?username=ayonroy299&repo=globalitsl&theme=dark)
 
 ---
 

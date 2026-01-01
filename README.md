@@ -4,8 +4,8 @@
 
 **Software Engineer | Full-Stack Web Development | Automation Systems**  
 
-I build **practical, scalable web applications** and **automation systems** that solve real operational and business problems.  
-With a systems-heavy electrical engineering background, I bring a **reliability-first and process-driven mindset** into software development.
+![I build **practical, scalable web applications** and **automation systems** that solve real operational and business problems.  
+With a systems-heavy electrical engineering background, I bring a **reliability-first and process-driven mindset** into software development.](https://raw.githubusercontent.com/ayonroy299/ayonroy299/refs/heads/main/typing_intro.svg)
 
 ---
 

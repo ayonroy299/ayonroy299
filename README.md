@@ -5,7 +5,7 @@
 **Software Engineer | Full-Stack Web Development | Automation Systems**  
 
 ![I build **practical, scalable web applications** and **automation systems** that solve real operational and business problems.  
-With a systems-heavy electrical engineering background, I bring a **reliability-first and process-driven mindset** into software development.](https://raw.githubusercontent.com/ayonroy299/ayonroy299/refs/heads/main/typing_intro.svg)
+With a systems-heavy electrical engineering background, I bring a **reliability-first and process-driven mindset** into software development.]([![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+practical,+scalable+web+applications+and+automation+systems;that+solve+real+operational+and+business+problems.;With+a+systems-heavy+electrical+engineering+background,;I+bring+a+reliability-first+and+process-driven+mindset+into+software+development.&font=Fira+Code&size=18&color=0000FF&center=false&vCenter=false&width=850&height=150&multiline=true)](https://git.io/typing-svg))
 
 ---
 

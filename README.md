@@ -1,6 +1,8 @@
  ![Hi there 👋, I'm Ayon Roy](https://raw.githubusercontent.com/ayonroy299/ayonroy299/refs/heads/main/marquee.svg)
 
-**Software Engineer | Full-Stack Web Development | Automation Systems**  
+<h3 align="center">
+  Software Engineer | Full-Stack Web Development | Automation Systems
+</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+practical,+scalable+web+applications+and+automation+systems;that+solve+real+operational+and+business+problems.;With+a+systems-heavy+electrical+engineering+background,;I+bring+a+reliability-first+and+process-driven+mindset+into+software+development.&font=Fira+Code&size=18&color=0000FF&center=false&vCenter=false&width=900&height=150&multiline=true&pause=100)](https://git.io/typing-svg)
 

@@ -1,4 +1,4 @@
-# ![Hi there 👋, I'm Ayon Roy](https://media.giphy.com/media/your-gif-link/giphy.gif)
+# ![Hi there 👋, I'm Ayon Roy]([https://media.giphy.com/media/your-gif-link/giphy.gif](https://raw.githubusercontent.com/ayonroy299/repo/branch/marquee.svg))
 
 **Software Engineer | Full-Stack Web Development | Automation Systems**  
 

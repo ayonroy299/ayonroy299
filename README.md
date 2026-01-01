@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ayon Roy
+# <marque>Hi there 👋, I'm Ayon Roy</marque>
 
 **Software Engineer | Full-Stack Web Development | Automation Systems**  
 

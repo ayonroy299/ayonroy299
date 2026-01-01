@@ -1,4 +1,4 @@
-[# ![Hi there 👋, I'm Ayon Roy](https://raw.githubusercontent.com/ayonroy299/ayonroy299/refs/heads/main/marquee.svg)
+ ![Hi there 👋, I'm Ayon Roy](https://raw.githubusercontent.com/ayonroy299/ayonroy299/refs/heads/main/marquee.svg)
 
 **Software Engineer | Full-Stack Web Development | Automation Systems**  
 

@@ -1,9 +1,5 @@
-# <svg width="500" height="50" xmlns="http://www.w3.org/2000/svg">
-  <text x="100%" y="50%" font-size="30" fill="#00f" dominant-baseline="middle">
-    <animate attributeName="x" from="100%" to="-100%" dur="10s" repeatCount="indefinite" />
-    Hi there 👋, I'm Ayon Roy
-  </text>
-</svg>
+# ![Hi there 👋, I'm Ayon Roy](https://raw.githubusercontent.com/your-username/your-repo/main/marquee.svg)
+
  
 
 **Software Engineer | Full-Stack Web Development | Automation Systems**  

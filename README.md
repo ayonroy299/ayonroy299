@@ -1,4 +1,4 @@
-# <marquee>Hi there 👋, I'm Ayon Roy</marquee>
+# ![Hi there 👋, I'm Ayon Roy](https://media.giphy.com/media/your-gif-link/giphy.gif)
 
 **Software Engineer | Full-Stack Web Development | Automation Systems**  
 

@@ -119,7 +119,13 @@
 </table>
 
 ---
+## 📊 **My Coding Journey**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayonroy299/ayonroy299/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
 ## 🚀 Selected Projects
 
 ### 🏢 [Integrated Asset Management System](https://asset.globalitsl.com)

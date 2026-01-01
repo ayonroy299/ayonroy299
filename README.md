@@ -1,6 +1,6 @@
  ![Hi there 👋, I'm Ayon Roy](https://raw.githubusercontent.com/ayonroy299/ayonroy299/refs/heads/main/marquee.svg)
 
-<h3 align="center">
+<h3 align="left">
   Software Engineer | Full-Stack Web Development | Automation Systems
 </h3>
 

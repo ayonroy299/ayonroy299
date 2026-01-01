@@ -120,15 +120,15 @@
 
 ---
 
-## 📊 **Coding Journey**
+## 📊 **My Development Journey**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayonroy299/ayonroy299/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayonroy299&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <em>The snake eats my contributions as I build amazing things!</em>
-</p>
+![Snake animation](https://raw.githubusercontent.com/ayonroy299/ayonroy299/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 

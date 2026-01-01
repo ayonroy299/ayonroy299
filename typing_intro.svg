@@ -1,0 +1,14 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="30" font-size="18" fill="#00f" font-family="monospace">
+    <tspan id="line1">I build practical, scalable web applications and automation systems</tspan>
+  </text>
+  <text x="0" y="60" font-size="18" fill="#00f" font-family="monospace">
+    <tspan id="line2">that solve real operational and business problems.</tspan>
+  </text>
+  <text x="0" y="90" font-size="18" fill="#00f" font-family="monospace">
+    <tspan id="line3">With a systems-heavy electrical engineering background, I bring a reliability-first and process-driven mindset into software development.</tspan>
+  </text>
+
+  <!-- Animation for line1 -->
+  <animate attributeName="textLength" from="0" to="700" dur="6s" begin="0s" fill="freeze" />
+</svg>

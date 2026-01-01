@@ -56,8 +56,8 @@
 
 <table>
   <tr>
-    <td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="48" alt="Laravel" /><br>Laravel
+   <td align="center">
+  <img src="https://laravel.com/img/logomark.min.svg" width="48" height="48" alt="Laravel" /><br>Laravel
 </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js" /><br>Node.js

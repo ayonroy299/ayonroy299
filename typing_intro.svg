@@ -8,13 +8,14 @@
   <text x="0" y="90" font-size="18" fill="#00f" font-family="monospace">
     <tspan id="line3">With a systems-heavy electrical engineering background,</tspan>
       </text>
-   <text x="0" y="90" font-size="18" fill="#00f" font-family="monospace">
+   <text x="0" y="120" font-size="18" fill="#00f" font-family="monospace">
      <tspan id="line4">I bring a reliability-first and process-driven mindset into software development.</tspan>
   </text>
 
   <!-- Animation for line1 -->
   <animate attributeName="textLength" from="0" to="700" dur="6s" begin="0s" fill="freeze" />
 </svg>
+
 
 
 

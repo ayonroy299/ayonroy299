@@ -92,12 +92,7 @@
     </td>
   </tr>
   <tr>
-  <td align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" /><br>Matplotlib
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br>Scikit-learn
-</td>
+  <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" alt="Matplotlib" /><br>Matplotlib </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" alt="Scikit-learn" /><br>Scikit-learn </td>
 
   </tr>
 </table>

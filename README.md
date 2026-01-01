@@ -45,7 +45,7 @@ With a systems-heavy electrical engineering background, I bring a **reliability-
 ## 🚀 Selected Projects
 
 ### [Integrated Asset Management System](https://asset.globalitsl.com)
-![Asset Management Demo](https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif)  
+
 Enterprise-grade **asset lifecycle tracking system**  
 - ✅ Role-Based Access Control (RBAC)  
 - ✅ 50+ REST API endpoints  
@@ -53,14 +53,14 @@ Enterprise-grade **asset lifecycle tracking system**
 🌐 [Live Demo](https://asset.globalitsl.com) | [Source](https://github.com/ayonroy299/asset-system)
 
 ### [Corporate CMS & Portfolio Platform](https://www.globalitsl.com)
-![CMS Demo](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif)  
+ 
 Dynamic corporate website & **CMS** built with Laravel 12 & Filament v3  
 - Real-time content management  
 - Scalable portfolio & media modules  
 🌐 [Live Demo](https://www.globalitsl.com) | [Source](https://github.com/ayonroy299/globalitsl)
 
 ### Smart Crop Disease Detection
-![Crop Disease Demo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+
 CNN-based **image classification system** for early crop disease detection.
 
 ---

@@ -9,12 +9,8 @@
 
 ## 🛠 Core Skills
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Expert+in+C+Programming;Java+Development;Python+Automation;PHP+Backend+Development;JavaScript+Full+Stack&font=Fira+Code&size=16&color=00599C&center=false&vCenter=false&width=600&pause=1000&duration=3000)](https://git.io/typing-svg)
+
 
 ### Frontend Frameworks & UI
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

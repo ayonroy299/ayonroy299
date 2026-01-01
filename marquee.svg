@@ -1,10 +1,11 @@
 <svg width="850" height="50" xmlns="http://www.w3.org/2000/svg">
-  <text x="100%" y="50%" font-size="40" fill="#00f" dominant-baseline="middle">
+  <text x="100%" y="50%" font-size="35" fill="#00f" dominant-baseline="middle">
     <animate attributeName="x" from="100%" to="-100%" dur="20s" repeatCount="indefinite" />
     Hi there 👋, I'm Ayon Roy
   </text>
 </svg>
 
  
+
 
 

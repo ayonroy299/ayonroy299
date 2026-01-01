@@ -33,7 +33,6 @@ Enterprise-grade system for asset lifecycle tracking, maintenance scheduling, an
 
 🌐 Live: [https://asset.globalitsl.com](https://asset.globalitsl.com)
 
----
 ### **Corporate CMS & Portfolio Platform**
 
 Dynamic corporate website and content management system built for Global Info-Tech Systems Ltd.

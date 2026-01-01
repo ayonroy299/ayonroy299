@@ -1,4 +1,4 @@
-# ![Hi there 👋, I'm Ayon Roy](https://raw.githubusercontent.com/your-username/your-repo/main/marquee.svg)
+# ![Hi there 👋, I'm Ayon Roy]((https://github.com/ayonroy299/ayonroy299/blob/main/marquee.svg))
 
  
 

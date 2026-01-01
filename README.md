@@ -7,45 +7,175 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+practical,+scalable+web+applications+and+automation+systems;that+solve+real+operational+and+business+problems.;With+a+systems-heavy+electrical+engineering+background,;I+bring+a+reliability-first+and+process-driven+mindset+into+software+development.&font=Fira+Code&size=18&color=0000FF&center=false&vCenter=false&width=900&height=150&multiline=true&pause=100)](https://git.io/typing-svg)
 ---
 
+# ![Hi there 👋, I'm Ayon Roy](https://raw.githubusercontent.com/ayonroy299/ayonroy299/refs/heads/main/marquee.svg)
+
+**Software Engineer | Full-Stack Web Development | Automation Systems**  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+practical,+scalable+web+applications+and+automation+systems;that+solve+real+operational+and+business+problems.;With+a+systems-heavy+electrical+engineering+background,;I+bring+a+reliability-first+and+process-driven+mindset+into+software+development.&font=Fira+Code&size=18&color=0000FF&center=false&vCenter=false&width=900&height=150&multiline=true&pause=15000)](https://git.io/typing-svg)
+
+---
+
 ## 🛠 Core Skills
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Expert+in+C+Programming;Java+Development;Python+Automation;PHP+Backend+Development;JavaScript+Full+Stack&font=Fira+Code&size=16&color=00599C&center=false&vCenter=false&width=600&pause=1000&duration=3000)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,python,php,js,react,tailwind,bootstrap,html,css,laravel,nodejs,mysql,tensorflow,pytorch,git,github,docker,npm&perline=10" />
+  </a>
+</p>
 
+<details open>
+<summary><b>📋 Detailed Tech Stack</b></summary>
+
+### Programming Languages
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
 
 ### Frontend Frameworks & UI
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
 
 ### Backend & Databases
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029?style=for-the-badge&logo=apache&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" />
+      <br>Apache
+    </td>
+  </tr>
+</table>
 
 ### Data, AI & Automation
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
+      <br>Keras
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" />
+      <br>Scikit-learn
+    </td>
+  </tr>
+</table>
 
 ### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
+      <br>NPM
+    </td>
+  </tr>
+</table>
+
+</details>
 
 ---
 
 ## 🚀 Selected Projects
 
-### [Integrated Asset Management System](https://asset.globalitsl.com)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Enterprise+Solutions+%7C+50%2B+APIs;Real-time+Dashboards+%26+Analytics;AI-Powered+Applications;Scalable+Web+Platforms&font=Fira+Code&size=18&color=38B2AC&center=true&vCenter=true&width=700&pause=2000&duration=3000)](https://git.io/typing-svg)
+
+</div>
+
+### 🏢 [Integrated Asset Management System](https://asset.globalitsl.com)
 
 Enterprise-grade **asset lifecycle tracking system**  
 - ✅ Role-Based Access Control (RBAC)  
@@ -53,17 +183,22 @@ Enterprise-grade **asset lifecycle tracking system**
 - ✅ Analytics dashboards & reports  
 🌐 [Live Demo](https://asset.globalitsl.com) 
 
-### [Corporate CMS & Portfolio Platform](https://www.globalitsl.com)
+### 🌐 [Corporate CMS & Portfolio Platform](https://www.globalitsl.com)
  
 Dynamic corporate website & **CMS** built with Laravel 12 & Filament v3  
 - Real-time content management  
 - Scalable portfolio & media modules  
 🌐 [Live Demo](https://www.globalitsl.com)  
 
-### Smart Crop Disease Detection
+### 🌾 Smart Crop Disease Detection
 
 CNN-based **image classification system** for early crop disease detection.
 
+---
+
+## 📈 GitHub Activity
+
+[![Ayon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayonroy299&theme=react-dark&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -74,8 +209,21 @@ CNN-based **image classification system** for early crop disease detection.
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ayonroy299&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=ayonroy299&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayonroy299&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayonroy299&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ayonroy299&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayonroy299&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ayonroy299&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ayonroy299&icon=0&color=0" alt="Visit Count" />
+</p>

@@ -1,67 +1,77 @@
 <svg width="850" height="150" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .line1, .line2, .line3, .line4 {
+      @keyframes typing1 {
+        from { width: 0; }
+        to { width: 670px; }
+      }
+      @keyframes typing2 {
+        from { width: 0; }
+        to { width: 530px; }
+      }
+      @keyframes typing3 {
+        from { width: 0; }
+        to { width: 620px; }
+      }
+      @keyframes typing4 {
+        from { width: 0; }
+        to { width: 820px; }
+      }
+      @keyframes blink {
+        50% { opacity: 0; }
+      }
+      
+      .typing-container {
+        font-family: 'Courier New', monospace;
+        font-size: 18px;
+        color: #00f;
+      }
+      
+      .line {
         overflow: hidden;
         white-space: nowrap;
-        border-right: 2px solid #00f;
+        width: 0;
+        display: inline-block;
+      }
+      
+      .line1 {
+        animation: typing1 2s steps(65, end) forwards;
+      }
+      .line2 {
+        animation: typing2 1.5s steps(53, end) 2s forwards;
+      }
+      .line3 {
+        animation: typing3 2s steps(64, end) 3.5s forwards;
+      }
+      .line4 {
+        animation: typing4 2.5s steps(84, end) 5.5s forwards;
+      }
+      
+      .cursor {
+        display: inline-block;
+        width: 2px;
+        height: 18px;
+        background-color: #00f;
+        margin-left: 2px;
+        animation: blink 1s step-end infinite;
       }
     </style>
   </defs>
   
   <foreignObject x="0" y="0" width="850" height="150">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: monospace; font-size: 18px; color: #00f;">
-      <div class="line1" id="l1"></div>
-      <div class="line2" id="l2"></div>
-      <div class="line3" id="l3"></div>
-      <div class="line4" id="l4"></div>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="typing-container">
+      <div style="height: 22px;">
+        <span class="line line1">I build practical, scalable web applications and automation systems</span>
+      </div>
+      <div style="height: 22px;">
+        <span class="line line2">that solve real operational and business problems.</span>
+      </div>
+      <div style="height: 22px;">
+        <span class="line line3">With a systems-heavy electrical engineering background,</span>
+      </div>
+      <div style="height: 22px;">
+        <span class="line line4">I bring a reliability-first and process-driven mindset into software development.</span>
+      </div>
     </div>
   </foreignObject>
-  
-  <script type="text/javascript">
-    <![CDATA[
-    (function() {
-      const lines = [
-        { id: 'l1', text: 'I build practical, scalable web applications and automation systems', delay: 0 },
-        { id: 'l2', text: 'that solve real operational and business problems.', delay: 2000 },
-        { id: 'l3', text: 'With a systems-heavy electrical engineering background,', delay: 3500 },
-        { id: 'l4', text: 'I bring a reliability-first and process-driven mindset into software development.', delay: 5500 }
-      ];
-      
-      function typeText(element, text, speed = 30) {
-        let i = 0;
-        element.textContent = '';
-        
-        return new Promise((resolve) => {
-          const interval = setInterval(() => {
-            if (i < text.length) {
-              element.textContent += text.charAt(i);
-              i++;
-            } else {
-              clearInterval(interval);
-              resolve();
-            }
-          }, speed);
-        });
-      }
-      
-      function startAnimation() {
-        lines.forEach(line => {
-          setTimeout(() => {
-            const element = document.getElementById(line.id);
-            if (element) {
-              typeText(element, line.text);
-            }
-          }, line.delay);
-        });
-      }
-      
-      // Start animation immediately
-      startAnimation();
-      
-      // Restart animation every 10 seconds
-      setInterval(startAnimation, 10000);
-    })();
-    ]]>
-  </script>
 </svg>

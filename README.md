@@ -8,32 +8,39 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technology Stack
 
 <div align="center">
 
-| **Expertise** | **Skills** |
-|:-------------:|:----------|
-| **Expert**    | ![Java](https://img.shields.io/badge/Java-Expert-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-Expert-FF2D20?style=flat&logo=laravel&logoColor=white) |
-| **Advanced**  | ![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Intermediate** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat&logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat&logo=node.js&logoColor=white) |
-
+### **Languages & Frameworks**
+<div>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
 
-### 📈 Skill Categories Breakdown
+### **Tools & Platforms**
+<div>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</div>
 
-#### **Full-Stack Development**
-![Full-Stack](https://progress-bar.dev/85/?title=Laravel+&+React&width=400&color=FF2D20)
+### **AI/ML Stack**
+<div>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</div>
 
-#### **AI & Machine Learning**
-![AI/ML](https://progress-bar.dev/75/?title=TensorFlow+PyTorch+Keras&width=400&color=FF6F00)
-
-#### **Database Management**
-![Databases](https://progress-bar.dev/80/?title=MySQL+Database+Design&width=400&color=4479A1)
-
-#### **DevOps & Tools**
-![DevOps](https://progress-bar.dev/70/?title=Git+Docker+NPM&width=400&color=2496ED)
-
+</div>
 ## 📊 **My Development Journey**
 
 <div align="center">

@@ -8,60 +8,31 @@
 
 ---
 
-## 💼 Technical Expertise
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### **Primary Stack**
-`Java` `Python` `Laravel` `React` `MySQL` `Docker`
-
-### **Frontend Ecosystem**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-
-### **Backend & Databases**
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat)
-
-### **AI & Data Science**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
-
-### **Development Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat)
+| **Expertise** | **Skills** |
+|:-------------:|:----------|
+| **Expert**    | ![Java](https://img.shields.io/badge/Java-Expert-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-Expert-FF2D20?style=flat&logo=laravel&logoColor=white) |
+| **Advanced**  | ![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Intermediate** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat&logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat&logo=node.js&logoColor=white) |
 
 </div>
 
-### Tools & Workflow
+### 📈 Skill Categories Breakdown
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git" /><br>Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub" /><br>GitHub
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker" /><br>Docker
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" alt="NPM" /><br>NPM
-    </td>
-  </tr>
-</table>
+#### **Full-Stack Development**
+![Full-Stack](https://progress-bar.dev/85/?title=Laravel+&+React&width=400&color=FF2D20)
 
----
+#### **AI & Machine Learning**
+![AI/ML](https://progress-bar.dev/75/?title=TensorFlow+PyTorch+Keras&width=400&color=FF6F00)
+
+#### **Database Management**
+![Databases](https://progress-bar.dev/80/?title=MySQL+Database+Design&width=400&color=4479A1)
+
+#### **DevOps & Tools**
+![DevOps](https://progress-bar.dev/70/?title=Git+Docker+NPM&width=400&color=2496ED)
 
 ## 📊 **My Development Journey**
 

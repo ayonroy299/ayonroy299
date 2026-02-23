@@ -12,7 +12,7 @@
  
 ----
  
-+## ⚡ Quick Snapshot
+⚡ Quick Snapshot
 - 🧠 Full-stack engineer focused on scalable web apps and automation systems.
 - 🏭 Strong systems + operations mindset from electrical engineering.
 - 🎯 Priorities: reliability, maintainability, and measurable business value.

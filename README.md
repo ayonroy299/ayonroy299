@@ -56,9 +56,13 @@ Dynamic corporate website + **CMS** built with Laravel 12 and Filament v3.
 <div align="center">
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayonroy299&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Analytics Pulse](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=40&lines=Consistent+contributions+%E2%80%A2+Reliable+shipping+%E2%80%A2+Continuous+improvement)](https://git.io/typing-svg)
+
 ![](https://github-readme-stats.vercel.app/api?username=ayonroy299&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=ayonroy299&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayonroy299&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 ----
